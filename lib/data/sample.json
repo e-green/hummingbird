@@ -1,0 +1,36 @@
+{
+    "id": "Sample Report Table",
+    "type": "String",
+    "name": "Chanaka De Silva",
+    "table":
+    {
+        "title":
+            [
+                {"name":".....EGreenSoft Daily Report....."},
+                {"date":"2014.10.11"}
+            ],
+
+        "head":
+            [
+                { "id": "Name", "type": "String" },
+                { "id": "Age", "type": "String" },
+                { "id": "Gender", "type": "String" },
+                { "id": "City", "type": "String"},
+                { "id": "Image", "type": "String"}
+            ],
+
+        "body":
+            [
+                ["Chanaka","21","Male","Horana","IMG"],
+                ["Dewmal","24","Male","Ballapitiya","IMG"],
+                ["Sudeshini","24","Female","Moronthuduwa","IMG"],
+                ["Nadeeshan","25","Male","Panadura","IMG"],
+                ["Pasan","20","Male","Horana Town","IMG"]
+            ],
+        "footer":
+            [
+
+            ]
+    }
+
+}

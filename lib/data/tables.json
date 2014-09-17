@@ -1,0 +1,32 @@
+{
+    "table1":[
+        {
+            "header":{
+                "name" : "Sample Name of Document",
+                "title" : "Payroll document",
+                "date" : "20th Friday of 2014"
+            }
+        },
+        {
+            "data":[
+                {
+                    "data1":["chanaka","horana","0772193303"],
+                    "data2":["namal","panadura","02147854"],
+                    "data3" : ["kamal","Matara","01147854"],
+                    "data4" : ["kamal","Matara","01147854"],
+                    "data5" : ["kamal","Matara","01147854"],
+                    "data6" : ["kamal","Matara","01147854"],
+                    "data7" : ["kamal","Matara","01147854"]
+                }
+            ]
+        },
+        {
+            "footer":[
+                {
+                    "title":"Powered by ",
+                    "extras": "name,address,anything"
+                }
+            ]
+        }
+    ]
+}
